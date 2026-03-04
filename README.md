@@ -1,4 +1,4 @@
-# Awesome-World-Action-Models [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome-World-Action-Models [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) <a href="https://github.com/zhangzhang2024/awesome-world-action-models"><img src="https://visitor-badge.laobi.icu/badge?page_id=zhangzhang2024.awesome-world-action-models&left_color=gray&right_color=red"></a>
 
 This repo collects benchmarks, datasets, papers, projects and codes about world action models for embodied ai.
 
